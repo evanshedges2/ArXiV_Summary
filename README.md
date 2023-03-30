@@ -1,5 +1,5 @@
 # ArXiV_Summary
-Collaboration with Jesse Parrish and Vlad Kovalchuk at the University of Denver. Weekly newsletter providing bullet point summaries of a selection of recently posted papers on arXiv.
+Collaboration with Jesse Parrish, Vlad Kovalchuk, and Xiao Zhuang at the University of Denver. Weekly newsletter providing bullet point summaries of a selection of recently posted papers on arXiv.
 
 Project Outline
 
